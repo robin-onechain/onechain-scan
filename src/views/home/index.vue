@@ -36,11 +36,11 @@ const tableLoading = ref(false);
 const tableData = ref([]);
 
 const columns = [
-  { prop: "kind", label: "Type", align: "center", width: 230 },
+  { prop: "kind", label: "Type/Func", align: "center", width: 230 },
   { slot: "details", label: "", align: "center", width: 80 },
   {
     prop: "digest",
-    label: "Digest",
+    label: "Hash",
     slot: "digest",
     align: "center",
     width: 220
@@ -352,7 +352,7 @@ const toAccount = address => {
           <div
             class="flex justify-between items-center text-black mt-[20px] border-gray_0 px-[13px] py-[20px]"
           >
-            <div class="text-[20px] font-bold">Latest transaction block</div>
+            <div class="text-[20px] font-bold">Latest Transaction</div>
             <el-button
               style="color: #214ff6"
               class="text-[14px] font-normal"
