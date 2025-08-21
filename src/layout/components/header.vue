@@ -198,7 +198,7 @@ onBeforeUnmount(() => {
             >
               <div class="flex items-center whitespace-nowrap">
                 <img :src="Coin" class="w-[18px] h-[18px]" />
-                <span class="ml-2">OCT Price:</span>
+                <span class="ml-2">OCT:</span>
                 <span class="text-[#214FF6] ml-2">${{ supplyInfo.price }}</span>
                 <span class="ml-2">(</span>
                 <span
