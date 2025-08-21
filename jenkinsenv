@@ -1,0 +1,5 @@
+{
+  "program": "Nodejs",
+  "archives": "hchain-scan",
+  "apps": "hchain scan-res"
+}

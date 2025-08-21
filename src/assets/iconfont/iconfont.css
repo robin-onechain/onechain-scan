@@ -1,0 +1,70 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2208059 */
+  src: url("iconfont.woff2?t=1671895108120") format("woff2"),
+    url("iconfont.woff?t=1671895108120") format("woff"),
+    url("iconfont.ttf?t=1671895108120") format("truetype");
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pure-iconfont-tabs:before {
+  content: "\e63e";
+}
+
+.pure-iconfont-logo:before {
+  content: "\e620";
+}
+
+.pure-iconfont-new:before {
+  content: "\e615";
+}
+
+@font-face {
+  font-family: "spaec";
+  src: url("./spaec.ttf");
+}
+
+@font-face {
+  font-family: "dmsans";
+  src: url("./dmsans.ttf");
+}
+
+/* 标题栏还有首页 */
+.spaec {
+  font-family: "spaec" !important;
+}
+.spaec div {
+  font-family: "spaec" !important;
+}
+.spaec span {
+  font-family: "spaec" !important;
+}
+.spaec li {
+  font-family: "spaec" !important;
+}
+.spaec p {
+  font-family: "spaec" !important;
+}
+
+/* 其他所有 */
+.dmsans {
+  font-family: "dmsans" !important;
+}
+.dmsans div {
+  font-family: "dmsans" !important;
+}
+.dmsans span {
+  font-family: "dmsans" !important;
+}
+.dmsans li {
+  font-family: "dmsans" !important;
+}
+.dmsans p {
+  font-family: "dmsans" !important;
+}

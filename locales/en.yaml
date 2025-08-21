@@ -1,0 +1,57 @@
+buttons:
+  changePsw: change password
+  hsLoginOut: LoginOut
+  hsfullscreen: FullScreen
+  hsexitfullscreen: ExitFullscreen
+  hsrefreshRoute: RefreshRoute
+  hslogin: Login
+  hsadd: Add
+  hsmark: Mark/Cancel
+  hssave: Save
+  hssearch: Search
+  hsexpendAll: Expand All
+  hscollapseAll: Collapse All
+  hssystemSet: Open ProjectConfig
+  hsdelete: Delete
+  hsreload: Reload
+  hscloseCurrentTab: Close CurrentTab
+  hscloseLeftTabs: Close LeftTabs
+  hscloseRightTabs: Close RightTabs
+  hscloseOtherTabs: Close OtherTabs
+  hscloseAllTabs: Close AllTabs
+  hswholeFullScreen: FullScreen
+  hswholeExitFullScreen: ExitFull
+  hscontentFullScreen: Content FullScreen
+  hscontentExitFullScreen: Content ExitFullScreen
+menus:
+  hshome: Home
+  hslogin: Login
+  hsabnormal: Abnormal Page
+  hsfourZeroFour: "404"
+  hsfourZeroOne: "403"
+  hsFive: "500"
+  permission: Permission Manage
+  permissionPage: Page Permission
+  permissionButton: Button Permission
+layout:
+  systemTitle: store management system
+  settingTitle: project configuration
+  closeSetting: close configuration
+  themeTitle: theme
+  bavTitle: navbar mode
+  themeColorTitle: theme color
+  showTitle: interface display
+  backTop: back top
+  hsLoad: Loading...
+login:
+  username: Username
+  password: Password
+  verifyCode: 6-digit verification code
+  login: Login
+  usernameReg: Please enter username
+  passwordReg: Please enter password
+  verifyCodeReg: Please enter verify code
+  passwordRuleReg: The password format should be any combination of 8-18 digits
+message:
+  messageSystem: system hint
+  messageTimeOutAuto: You have not operated for a long time and have automatically logged out of the system！

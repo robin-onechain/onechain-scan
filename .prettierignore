@@ -1,0 +1,3 @@
+# 忽略格式化自动化文件:
+deploy
+jenkinsenv
